@@ -1,17 +1,6 @@
 # jpa02-bobhe9606
 
-* TODO: Correct the links to repo below, 
-  then delete this TODO.  Replace it with 
-  a link to your repo, e.g. 
-  https://github.com/ucsb-cs156-w22/jpa02-bobhe9606
-
-Repo: https://ucsb-cs156-w22/STARTER-jpa02
-
-* TODO: Correct the links to app on Heroku below, 
-  then delete this TODO.  Replace it with 
-  a link to your running app on Heroku, e.g.
-  https://cs156-w22-jpa02-bobhe9606.herokuapp.com
-
+Repo: https://github.com/ucsb-cs156-w22/jpa02-bobhe9606
 
 On Heroku: https://cs156-w22-jpa02-bobhe9606.herokuapp.com
 
